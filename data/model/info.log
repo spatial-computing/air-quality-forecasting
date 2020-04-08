@@ -1,0 +1,270 @@
+2018-04-12 02:15:11,121 - info.log - INFO - Log directory: data/model
+2018-04-12 02:15:11,121 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:15:11,122 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:25:21,506 - info.log - INFO - Log directory: data/model
+2018-04-12 02:25:21,507 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 02:25:21,511 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 02:26:35,486 - info.log - INFO - Log directory: data/model
+2018-04-12 02:26:35,487 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 02:26:35,491 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 02:27:29,890 - info.log - INFO - Log directory: data/model
+2018-04-12 02:27:29,890 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:27:29,891 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:30:41,330 - info.log - INFO - Log directory: data/model
+2018-04-12 02:30:41,331 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:30:41,331 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:32:48,008 - info.log - INFO - Log directory: data/model
+2018-04-12 02:32:48,009 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:32:48,009 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:33:01,452 - info.log - INFO - Log directory: data/model
+2018-04-12 02:33:01,453 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:33:01,453 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:33:50,791 - info.log - INFO - Log directory: data/model
+2018-04-12 02:33:50,791 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:33:50,792 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:34:04,962 - info.log - INFO - Log directory: data/model
+2018-04-12 02:34:04,962 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:34:04,962 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:49:46,959 - info.log - INFO - Log directory: data/model
+2018-04-12 02:49:46,959 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:49:46,960 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:50:01,356 - info.log - INFO - Log directory: data/model
+2018-04-12 02:50:01,357 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:50:01,357 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:53:36,409 - info.log - INFO - Log directory: data/model
+2018-04-12 02:53:36,410 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:53:36,410 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:56:06,491 - info.log - INFO - Log directory: data/model
+2018-04-12 02:56:06,492 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:56:06,492 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:56:44,953 - info.log - INFO - Log directory: data/model
+2018-04-12 02:56:44,954 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:56:44,954 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 02:57:08,360 - info.log - INFO - Log directory: data/model
+2018-04-12 02:57:08,361 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 02:57:08,361 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:10:46,873 - info.log - INFO - Log directory: data/model
+2018-04-12 03:10:46,874 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:10:46,874 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:11:47,097 - info.log - INFO - Log directory: data/model
+2018-04-12 03:11:47,098 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:11:47,098 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:13:39,275 - info.log - INFO - Log directory: data/model
+2018-04-12 03:13:39,276 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:13:39,276 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:14:00,540 - info.log - INFO - Log directory: data/model
+2018-04-12 03:14:00,540 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:14:00,541 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:16:09,977 - info.log - INFO - Log directory: data/model
+2018-04-12 03:16:09,977 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 03:16:09,981 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 03:22:29,802 - info.log - INFO - Log directory: data/model
+2018-04-12 03:22:29,803 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 03:22:29,807 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 03:23:08,774 - info.log - INFO - Log directory: data/model
+2018-04-12 03:23:08,775 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:23:08,775 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:23:39,994 - info.log - INFO - Log directory: data/model
+2018-04-12 03:23:39,994 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:23:39,995 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:23:59,204 - info.log - INFO - Log directory: data/model
+2018-04-12 03:23:59,204 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:23:59,205 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:25:28,150 - info.log - INFO - Log directory: data/model
+2018-04-12 03:25:28,151 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 03:25:28,155 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 03:25:53,117 - info.log - INFO - Log directory: data/model
+2018-04-12 03:25:53,118 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:25:53,118 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:29:48,715 - info.log - INFO - Log directory: data/model
+2018-04-12 03:29:48,716 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:29:48,716 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 03:32:20,241 - info.log - INFO - Log directory: data/model
+2018-04-12 03:32:20,242 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 03:32:20,242 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 11:23:54,401 - info.log - INFO - Log directory: data/model
+2018-04-12 11:23:54,402 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 11:23:54,402 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 11:25:51,496 - info.log - INFO - Log directory: data/model
+2018-04-12 11:25:51,496 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 11:25:51,497 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 11:26:15,039 - info.log - INFO - Log directory: data/model
+2018-04-12 11:26:15,040 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 11:26:15,040 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 11:26:59,175 - info.log - INFO - Log directory: data/model
+2018-04-12 11:26:59,176 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 11:26:59,176 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 11:27:08,735 - info.log - INFO - Log directory: data/model
+2018-04-12 11:27:08,736 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 11:27:08,740 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 14:38:12,478 - info.log - INFO - Log directory: data/model
+2018-04-12 14:38:12,479 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 14:38:12,479 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 14:39:27,308 - info.log - INFO - Log directory: data/model
+2018-04-12 14:39:27,309 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 14:39:27,309 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 14:39:38,979 - info.log - INFO - Log directory: data/model
+2018-04-12 14:39:38,979 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 14:39:38,983 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 14:41:56,897 - info.log - INFO - Log directory: data/model
+2018-04-12 14:41:56,897 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-12 14:41:56,901 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-12 14:42:17,347 - info.log - INFO - Log directory: data/model
+2018-04-12 14:42:17,347 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 14:42:17,348 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-12 14:42:51,061 - info.log - INFO - Log directory: data/model
+2018-04-12 14:42:51,061 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-12 14:42:51,062 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-18 13:19:21,747 - info.log - INFO - Log directory: data/model
+2018-04-18 13:19:21,747 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-18 13:19:21,748 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-18 13:19:22,934 - info.log - INFO - Log directory: data/model
+2018-04-18 13:19:22,935 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-18 13:19:22,940 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-18 13:20:19,604 - info.log - INFO - Log directory: data/model
+2018-04-18 13:20:19,604 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-18 13:20:19,605 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-18 13:20:20,784 - info.log - INFO - Log directory: data/model
+2018-04-18 13:20:20,785 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-18 13:20:20,789 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-18 13:21:23,696 - info.log - INFO - Log directory: data/model
+2018-04-18 13:21:23,696 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-18 13:21:23,697 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-18 13:27:41,789 - info.log - INFO - Log directory: data/model
+2018-04-18 13:27:41,789 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-04-18 13:27:41,793 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-04-18 14:26:02,650 - info.log - INFO - Log directory: data/model
+2018-04-18 14:26:02,651 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-18 14:26:02,651 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-19 15:32:50,229 - info.log - INFO - Log directory: data/model
+2018-04-19 15:32:50,229 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-19 15:32:50,230 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-19 16:03:09,015 - info.log - INFO - Log directory: data/model
+2018-04-19 16:03:09,016 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-19 16:03:09,016 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-19 16:30:48,088 - info.log - INFO - Log directory: data/model
+2018-04-19 16:30:48,089 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-19 16:30:48,089 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-20 02:55:44,966 - info.log - INFO - Log directory: data/model
+2018-04-20 02:55:44,966 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-20 02:55:44,967 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-20 03:02:16,228 - info.log - INFO - Log directory: data/model
+2018-04-20 03:02:16,228 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-20 03:02:16,229 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-20 03:04:52,985 - info.log - INFO - Log directory: data/model
+2018-04-20 03:04:52,985 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-20 03:04:52,985 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-20 03:05:30,183 - info.log - INFO - Log directory: data/model
+2018-04-20 03:05:30,183 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-20 03:05:30,183 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-20 03:13:26,825 - info.log - INFO - Log directory: data/model
+2018-04-20 03:13:26,825 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-20 03:13:26,825 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-27 08:19:23,178 - info.log - INFO - Log directory: data/model
+2018-04-27 08:19:23,179 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-27 08:19:23,180 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-04-27 08:38:46,980 - info.log - INFO - Log directory: data/model
+2018-04-27 08:38:46,980 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-04-27 08:38:46,981 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-02 11:47:47,233 - info.log - INFO - Log directory: data/model
+2018-05-02 11:47:47,234 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-02 11:47:47,234 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-02 14:45:38,065 - info.log - INFO - Log directory: data/model
+2018-05-02 14:45:38,065 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mx.pkl
+2018-05-02 14:45:38,070 - info.log - INFO - Loading traffic data from: data/df_highway_2012_4mon_sample.h5
+2018-05-02 19:28:24,371 - info.log - INFO - Log directory: data/model
+2018-05-02 19:28:24,371 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-02 19:28:24,372 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-02 19:54:11,022 - info.log - INFO - Log directory: data/model
+2018-05-02 19:54:11,023 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-02 19:54:11,023 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-02 19:56:55,927 - info.log - INFO - Log directory: data/model
+2018-05-02 19:56:55,928 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-02 19:56:55,928 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-02 20:44:19,022 - info.log - INFO - Log directory: data/model
+2018-05-02 20:44:19,023 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-02 20:44:19,023 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-07 20:15:21,237 - info.log - INFO - Log directory: data/model
+2018-05-07 20:15:21,238 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-07 20:15:21,239 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-07 20:37:04,965 - info.log - INFO - Log directory: data/model
+2018-05-07 20:37:04,965 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-07 20:37:04,966 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-07 20:45:44,706 - info.log - INFO - Log directory: data/model
+2018-05-07 20:45:44,706 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-07 20:45:44,707 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-07 21:22:01,663 - info.log - INFO - Log directory: data/model
+2018-05-07 21:22:01,663 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-07 21:22:01,664 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 11:18:55,746 - info.log - INFO - Log directory: data/model
+2018-05-08 11:18:55,746 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 11:18:55,747 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 12:45:55,415 - info.log - INFO - Log directory: data/model
+2018-05-08 12:45:55,415 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 12:45:55,416 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 13:55:43,587 - info.log - INFO - Log directory: data/model
+2018-05-08 13:55:43,587 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 13:55:43,588 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 14:14:26,547 - info.log - INFO - Log directory: data/model
+2018-05-08 14:14:26,548 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 14:14:26,548 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 14:33:33,753 - info.log - INFO - Log directory: data/model
+2018-05-08 14:33:33,753 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 14:33:33,754 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 14:51:27,452 - info.log - INFO - Log directory: data/model
+2018-05-08 14:51:27,453 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 14:51:27,453 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-08 16:23:17,599 - info.log - INFO - Log directory: data/model
+2018-05-08 16:23:17,600 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-08 16:23:17,600 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-10 14:13:22,153 - info.log - INFO - Log directory: data/model
+2018-05-10 14:13:22,154 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-10 14:13:22,154 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-10 15:48:57,643 - info.log - INFO - Log directory: data/model
+2018-05-10 15:48:57,644 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-10 15:48:57,644 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:33:14,992 - info.log - INFO - Log directory: data/model
+2018-05-17 10:33:14,993 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:33:14,993 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:34:51,165 - info.log - INFO - Log directory: data/model
+2018-05-17 10:34:51,166 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:34:51,166 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:37:34,997 - info.log - INFO - Log directory: data/model
+2018-05-17 10:37:34,997 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:37:34,998 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:48:49,842 - info.log - INFO - Log directory: data/model
+2018-05-17 10:48:49,842 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:48:49,843 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:48:54,337 - info.log - INFO - Log directory: data/model
+2018-05-17 10:48:54,338 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:48:54,338 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 10:49:06,181 - info.log - INFO - Log directory: data/model
+2018-05-17 10:49:06,181 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 10:49:06,182 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:05:02,525 - info.log - INFO - Log directory: data/model
+2018-05-17 11:05:02,525 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:05:02,526 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:05:06,393 - info.log - INFO - Log directory: data/model
+2018-05-17 11:05:06,393 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:05:06,394 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:05:21,033 - info.log - INFO - Log directory: data/model
+2018-05-17 11:05:21,034 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:05:21,034 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:22:13,884 - info.log - INFO - Log directory: data/model
+2018-05-17 11:22:13,884 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:22:13,884 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:22:27,343 - info.log - INFO - Log directory: data/model
+2018-05-17 11:22:27,343 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:22:27,344 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:42:30,775 - info.log - INFO - Log directory: data/model
+2018-05-17 11:42:30,776 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:42:30,776 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 11:42:34,232 - info.log - INFO - Log directory: data/model
+2018-05-17 11:42:34,232 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 11:42:34,233 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 12:04:06,257 - info.log - INFO - Log directory: data/model
+2018-05-17 12:04:06,257 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 12:04:06,257 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
+2018-05-17 12:04:11,018 - info.log - INFO - Log directory: data/model
+2018-05-17 12:04:11,019 - info.log - INFO - Loading graph from: data/sensor_graph/adj_mat.pkl
+2018-05-17 12:04:11,019 - info.log - INFO - Loading traffic data from: data/weather_ts.csv
